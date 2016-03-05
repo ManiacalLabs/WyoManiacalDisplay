@@ -1,0 +1,24 @@
+Qty,Part,Source
+24,WyoLum TiM,http://www.seeedstudio.com/depot/TiM-p-1516.html
+3,Teensy 3.2,https://www.pjrc.com/store/teensy32.html
+6,"74HCT245N,652 (Control adapter level buffer)",http://www.mouser.com/ProductDetail/NXP/74HCT245N652/
+48,330 ohm 1/8w resistor (control adapter),Generic
+6,1uF Cap (control adapter),Generic
+3,Adapter PCB,https://oshpark.com/shared_projects/5UyRTd8T
+3,Meanwell LRS-200-5,http://www.mouser.com/ProductDetail/Mean-Well/LRS-200-5/
+4,"0.5""x0.5""x96"" Aluminum C-Channel",http://www.homedepot.com/p/Everbilt-1-2-in-W-x-1-2-in-H-x-96-in-L-Aluminum-C-Channel-with-1-16-in-Thick-802657/204273938
+1,USB Coupler,http://www.amazon.com/gp/product/B00V9GOLXG?psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00
+1,IEC 320 Cord Adapter,http://www.amazon.com/gp/product/B00066HQ50?psc=1&redirect=true&ref_=oh_aui_detailpage_o02_s00
+1,Power Splitter,https://www.amazon.com/gp/product/B000083KIH/ref=oh_aui_detailpage_o06_s01?ie=UTF8&psc=1
+1,USB Hub Power,https://www.amazon.com/gp/product/B00MRFR1XA/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1
+1,USB Hub,https://www.amazon.com/gp/product/B00BWF5U0M/ref=oh_aui_detailpage_o03_s01?ie=UTF8&psc=1
+~30,M3.5x16mm Wood Screws (Mount panel to frame),https://www.amazon.com/gp/product/B011BNVRD8/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1
+~16,M4-0.7x18mm (Back panel mount),https://www.amazon.com/gp/product/B00598DTCE/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
+~50,"#8x3/4"" Screw (various frame mount)",https://www.amazon.com/gp/product/B000KWKQTS/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1
+~16,Square M4 Nut (BackPanelBracket.stl),https://www.amazon.com/gp/product/B019XITPK0/ref=oh_aui_detailpage_o05_s01?ie=UTF8&psc=1
+~300,M3-0.5 Nuts,https://www.amazon.com/gp/product/B000NBIH92/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
+~30,M3x30mm (Connect vert & horiz rails),https://www.amazon.com/gp/product/B011BNUJPU/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
+~100,M3x10mm (Most panel connections),https://www.amazon.com/gp/product/B000NHVPW2/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1
+~50,M3x16mm (Power Supply Mounts),https://www.amazon.com/gp/product/B000NHXOCG/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1
+2,Frame handles,https://www.amazon.com/gp/product/B00JQYVGEK/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1
+1,"40"" x 31"" 8% Black Acrylic",https://www.acrylite-shop.com/US/us/extruded-f0p5v3qaql1/acrylite-extruded-ff-grey-7c056-gt-ckhtgnt8efh~p.html

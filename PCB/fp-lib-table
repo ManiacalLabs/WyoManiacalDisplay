@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Teensy)(type KiCad)(uri "$(KIPRJMOD)\\Teensy")(options "")(descr ""))
+  (lib (name CustomFoot)(type KiCad)(uri "$(KIPRJMOD)\\CustomFoot.pretty")(options "")(descr ""))
+)
