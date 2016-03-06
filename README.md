@@ -6,7 +6,9 @@ Many, many late nights  of coding, soldering, 3D printing, and fabricating later
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9yjcHflWVkI
 " target="_blank"><img src="http://img.youtube.com/vi/9yjcHflWVkI/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+alt="WyoManiacal Display" width="480" height="360" border="10" /></a>
+
+CLICK THUMBNAIL FOR YOUTUBE VIDEO
 
 Here's the specs:
 
